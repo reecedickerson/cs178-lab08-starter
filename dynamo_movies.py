@@ -1,6 +1,7 @@
 # CS178 - Lab 8 Starter
 # Lab 8 - Reece Dickerson
 # Version 2
+# I'm finally done with stage managing!!!
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
